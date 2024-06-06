@@ -1,5 +1,7 @@
 # test_tkinter
 
+![imagen](https://github.com/J-Rios/test_tkinter/assets/12136967/e7aeca1d-7ef8-495a-ab85-683a145473ad)
+
 A basic demo project to test TKinter functionalities.
 
 TKinter is a Python library for creation of GUI apps.
